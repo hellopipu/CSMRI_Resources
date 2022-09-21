@@ -11,7 +11,15 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [ISMRM MR Academy - Compressed Sensing in MRI](https://youtu.be/AP6JczMW8C8)
 
+##### [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/)
+
+- [Jeffrey Fessler : Joint Optimization and Learning for Image Reconstruction in MRI](https://youtu.be/sLFOf5EvVAs)
+
 ## Compressed Sensing Basics
+
+##### low rank
+
+- [ISMRM 2020 Tutorial: Low Rank Reconstruction Approaches](https://youtu.be/NzI_7SGd848)
 
 ##### sparsity
 
@@ -28,6 +36,10 @@ This repo mainly collects some important speeches, educational videos and academ
 - [How MRI Works - Part 2 - The Spin Echo](https://youtu.be/M7yh0To6Wbs)
 
 - [The Fourier Transform and K-Space - How MRI Works: Part 3](https://youtu.be/R_4GuyJTzMo)
+
+##### Online course
+
+- [Stanford-RAD229](https://youtu.be/dNpILrLUvKs) [[website]](https://web.stanford.edu/class/rad229/index.html)
 
 ## Important techniques
 ##### XD-GRASP
