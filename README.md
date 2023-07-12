@@ -38,7 +38,7 @@ This repo mainly collects some important speeches, educational videos and academ
 ## MRI Basics
 
 ##### Basic Physics & a Brief History
--[MRI: Basic Physics & a Brief History](https://youtu.be/djAxjtN_7VE)
+- [MRI: Basic Physics & a Brief History](https://youtu.be/djAxjtN_7VE)
 
 ##### Understand k-space
 - [K-Space: A way to understand how MRI parameters affect images](https://youtu.be/QHtZR0mtB80)
