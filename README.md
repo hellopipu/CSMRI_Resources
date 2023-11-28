@@ -20,7 +20,11 @@ This repo mainly collects some important speeches, educational videos and academ
 ##### [Daniel Sodickson](https://med.nyu.edu/faculty/daniel-k-sodickson)
 
 - [Daniel Sodickson plenary talk: The Rapid Imaging Renaissance](https://youtu.be/oypRDAENn_E)
-<!-- [//]: # (- [SMASH]) -->
+
+##### [Matthew Rosen](https://www.martinos.org/investigator/matt-rosen/)
+
+- [Life at the bottom: millitesla MRI in the 21st century](https://youtu.be/xiXJqXBnasg?si=QS5cmpoaVMxHhoGw)
+
 
 ##### [Klaas P. Prüssmann](https://ee.ethz.ch/the-department/people-a-z/person-detail.NjE3Njg=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html)
 
@@ -35,10 +39,6 @@ This repo mainly collects some important speeches, educational videos and academ
 ##### [Michal Sofka](https://msofka.github.io/)
 
 - [Deep MR image reconstruction across k­-space and image domain](https://youtu.be/2djGATBc_eE?si=iPKq3zTi236vTDqm)
-
-<!-- ##### [UECKER]()
-
-[//]: # (- [ESPIRiT]) -->
 
 ## MRI Basics
 
