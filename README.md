@@ -65,7 +65,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 ##### [Dan Ma](https://case.edu/medicine/ccir/faculty/dan-ma)
 
-- [ISMRM MR Academy - MR Fingerprinting](<https://youtu.be/zWO09lNGYao?si=2KD9Tx6rn1LPYcxT>)
+- [ISMRM MR Academy - MR Fingerprinting](https://youtu.be/zWO09lNGYao?si=2KD9Tx6rn1LPYcxT)
 
 ##### [Mark Griswold](https://case.edu/medicine/ccir/faculty/mark-griswold)
 
