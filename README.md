@@ -2,7 +2,7 @@
 
 This repo mainly collects some important speeches, educational videos and academic presentations about Compressed sensing & MRI reconstruction
 
-## MRI Basics
+##  🧲 MRI Basics
 
 ##### [Raymond V. Damadian](https://en.wikipedia.org/wiki/Raymond_Damadian)
 
@@ -28,7 +28,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [Parallel Imaging](https://youtu.be/OZb8ncGkjOI?si=cpIxcXA1Zvd5x3CU)
 
-## Compressed Sensing Basics
+## 📚 Compressed Sensing Basics
 
 ##### [David Donoho](https://en.wikipedia.org/wiki/David_Donoho)
 
@@ -47,7 +47,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [Sparsity and the L1 Norm](https://youtu.be/76B5cMEZA4Y)
 
-## Radial MRI
+## ✴️ Radial MRI
 
 ##### [Kai Tobias Block](https://tobias-block.net/)
 
@@ -61,7 +61,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [Daniel Sodickson plenary talk: The Rapid Imaging Renaissance](https://youtu.be/oypRDAENn_E)
 
-## MR Fingerprinting
+## ☝️ MR Fingerprinting
 
 ##### [Dan Ma](https://www.danmamd.com/)
 
@@ -71,7 +71,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [How MR Fingerprinting Could Change the Way We Think About MRI](https://youtu.be/0Y0SMTw4AzA?si=W-gbshilzLGus-ge)
 
-## Low Field MRI
+## 🚀 Low Field MRI
 
 #### [Clarissa Cooley](https://researchers.mgh.harvard.edu/profile/12069960/Clarissa-Cooley)
 
@@ -81,7 +81,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [Life at the bottom: millitesla MRI in the 21st century](https://youtu.be/xiXJqXBnasg?si=QS5cmpoaVMxHhoGw)
 
-## Deep Learning Methods
+## 🧙‍♂️ Deep Learning Methods
 
 ##### [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/)
 
@@ -91,7 +91,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 - [Deep MR image reconstruction across k­-space and image domain](https://youtu.be/2djGATBc_eE?si=iPKq3zTi236vTDqm)
 
-## Others
+## 🤔 Others
 
 ##### [Klaas P. Prüssmann](https://ee.ethz.ch/the-department/people-a-z/person-detail.NjE3Njg=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html)
 
