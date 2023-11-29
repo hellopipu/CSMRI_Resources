@@ -63,7 +63,7 @@ This repo mainly collects some important speeches, educational videos and academ
 
 ## ☝️ MR Fingerprinting
 
-##### [Dan Ma](https://www.danmamd.com/)
+##### [Dan Ma](https://case.edu/medicine/ccir/faculty/dan-ma)
 
 - [ISMRM MR Academy - MR Fingerprinting](<https://youtu.be/zWO09lNGYao?si=2KD9Tx6rn1LPYcxT>)
 
