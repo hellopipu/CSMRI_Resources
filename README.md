@@ -99,4 +99,6 @@ This repo mainly collects some important speeches, educational videos and academ
 
 ## 📚 Documents
 
-[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+[Convex Optimization (CMU Fall19 Lecture material)](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+
+[MRI Questions website](https://mriquestions.com/complete-list-of-questions.html)
