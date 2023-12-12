@@ -96,3 +96,7 @@ This repo mainly collects some important speeches, educational videos and academ
 ##### [Klaas P. Prüssmann](https://ee.ethz.ch/the-department/people-a-z/person-detail.NjE3Njg=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html)
 
 - [Richer data, better defined: Gearing up MRI for the learning age](https://video.midl.io/2022/keynote3.mp4)
+
+## 📚 Documents
+
+[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
